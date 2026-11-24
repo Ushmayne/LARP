@@ -1,0 +1,160 @@
+Larp brand guide
+Nov 24, 2026 · @usman
+Larp uses the Pink Pop palette: hot pink on dark plum, with grey blue for reading text and salmon for small accents.
+Colour palette
+Name
+Hex
+Role
+Hot pink
+#D83F87
+Main brand colour. Logo tile, buttons, headline accents, hero backgrounds
+Plum
+#2A1B3D
+Dark base. Page backgrounds, text on pink, logo glasses
+Indigo
+#44318D
+Secondary surface. Section backgrounds, chips and tags on plum
+Salmon
+#E98074
+Small accent. Labels, the logo's nose, badges, progress bars
+Grey blue
+#A4B3B6
+Reading text on plum, light section backgrounds
+Use pink as the loud colour and plum as the calm one. Salmon should stay rare so it keeps its pop.
+Contrast rules
+Body text needs 4.5:1 contrast. Large or bold text (about 19px bold or 24px regular and up) needs 3:1.
+Text on background
+Ratio
+Use for
+Grey blue on plum
+7.3:1
+Any text, including body copy
+Plum on grey blue
+7.3:1
+Any text, including body copy
+Salmon on plum
+5.9:1
+Any text, best for small labels
+Plum on salmon
+5.9:1
+Tags, badges, chat bubbles
+Grey blue on indigo
+4.7:1
+Any text, including body copy
+Pink on plum
+3.8:1
+Large or bold only: headlines, logo, big numbers
+Plum on pink
+3.8:1
+Large or bold only: buttons at 19px bold, hero text
+Salmon on indigo
+3.8:1
+Large or bold only
+Pink on indigo
+2.4:1
+Never for text
+Pink on grey blue
+1.9:1
+Never for text
+Indigo on plum
+1.6:1
+Never for text, surfaces only
+The main trap is small pink text. Keep pink for big type and button backgrounds, and use salmon or grey blue for anything small.
+Typography
+Two free Google Fonts: Fredoka for display, Inter for reading.
+Use
+Font
+Weight
+Size (desktop)
+Logo wordmark
+Fredoka
+Bold 700, lowercase "larp"
+Scales with logo
+Hero headline
+Fredoka
+Bold 700
+88 to 128px
+Section headings
+Fredoka
+Bold 700
+44 to 56px
+Small headings
+Fredoka
+Semibold 600 or Bold 700
+24 to 34px
+Body text
+Inter
+Regular 400
+17 to 18px
+Lead text under headlines
+Inter
+Bold 700
+20 to 22px
+Buttons
+Inter
+Bold 700
+19px
+Labels and tags
+Inter
+Bold 700, uppercase, wide letter spacing
+13 to 15px
+Headlines use tight letter spacing (about minus 2px). Keep body line height around 1.55.
+Logo
+The mark is a pair of Groucho disguise glasses (eyebrows, round frames, nose and mustache) on a rounded square tile, next to the lowercase "larp" wordmark.
+ 
+File
+Use for
+larp-icon.png / .svg
+Social profiles, favicon, anywhere the icon stands alone
+larp-icon-square.png
+App Store and Google Play (they round the corners)
+larp-logo-on-plum.png / .svg
+Main logo for dark backgrounds and the site header
+larp-logo-on-pink.png
+Pink backgrounds and the Pink Pop hero
+larp-logo-transparent.png / .svg
+Placing on dark photos or colours other than plum
+Logo colours: pink tile, plum glasses and mustache, salmon nose. The inverted version is a plum tile with pink glasses.
+Rules:
+• Keep space around the logo equal to at least a quarter of the tile's width.
+• Don't put the transparent version on plum. The plum glasses disappear.
+• Don't stretch, rotate, or recolour the glasses outside the palette.
+• Below about 32px, use the icon alone, without the wordmark.
+• Use the SVG files on the website so the logo stays sharp.
+UI style
+The Pink Pop look: a loud pink hero on top, then plum and grey blue sections below, with no boxed cards.
+Element
+Style
+Primary button
+Plum fill, pink text, 19px bold, fully rounded (pill)
+Button on plum
+Pink fill, plum text, 19px bold, pill
+Secondary button
+Transparent, 3px plum outline, plum text, pill
+Tags and badges
+Salmon or grey blue pill, plum text, 13px bold
+Topic stickers
+Plum or indigo pill, Fredoka 24px, slightly tilted (2 to 5 degrees)
+Section dividers
+Thick plum rules (3px) instead of boxes
+Page width
+Content max 1180px, 24px side padding
+Corners
+Pills for buttons and tags, 16 to 32px radius for larger shapes
+Icons
+Simple line icons, never emoji
+Section rhythm: pink hero, then a plum band, then a grey blue content section, then an indigo call to action, then a plum footer.
+Pack pages: the card layout is retired. The candidates are Editorial (big numbers and rules on plum), Cheat sheet (label and content rows on grey blue), and Tabs (one section at a time). Still to decide.
+Voice and tone
+Larp is in on the joke: playful, confident, and a little cheeky, but never mean.
+Taglines in use:
+• Know ball in 5 minutes.
+• Act like you know ball.
+• Larp responsibly.
+• Could you pass as a real fan?
+How to write:
+• Short sentences, like talking to a friend.
+• Use the slang the audience uses ("know ball", "hot take", "run it back"), but don't overdo it.
+• Joke about bluffing, never about the hobbies or the fans themselves.
+• Name things plainly: packs, topics, vibe check, write a pack.
+• Lowercase "larp" in the logo; "Larp" at the start of a sentence.
